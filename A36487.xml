@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dovvnfall of greatnesse for the losse of goodnesse, a poem, or, A short survey of Thomas Lord Wentworth late Earle of Strafford, lord lieutenant generall of His Majesties army, generall, governour, and lord lieutenant of Ireland, lord president of the councell established in the north parts of England, and of the county and city of York : one of His Majesties most honourable privie councell, and knight of the noble order of the garter : his history and tragedy : who was accused and impeached of high treason, arraigned, found guilty, condemned, and beheaded on Tower-hill, May 12, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36487</idno>
+            <idno type="STC">Wing D2086</idno>
+            <idno type="STC">ESTC R204322</idno>
+            <idno type="EEBO-CITATION">12744615</idno>
+            <idno type="OCLC">ocm 12744615</idno>
+            <idno type="VID">93206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E157, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dovvnfall of greatnesse for the losse of goodnesse, a poem, or, A short survey of Thomas Lord Wentworth late Earle of Strafford, lord lieutenant generall of His Majesties army, generall, governour, and lord lieutenant of Ireland, lord president of the councell established in the north parts of England, and of the county and city of York : one of His Majesties most honourable privie councell, and knight of the noble order of the garter : his history and tragedy : who was accused and impeached of high treason, arraigned, found guilty, condemned, and beheaded on Tower-hill, May 12, 1641.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut on t.p.: portrait of the Earl of Strafford.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93206:1"/>
+            <pb facs="tcp:93206:1" rendition="simple:additions"/>
+            <p>THE DOVVNFALL OF <hi>GREATNESSE.</hi> For the loſſe of <hi>GOODNESSE.</hi>
+            </p>
+            <p>A POEM: <hi>OR,</hi> A ſhort Survay of <hi>Thomas</hi> Lord <hi>VVentworth,</hi> Late Earle of <hi>Strafford,</hi> Lord Lieutenant Generall of His Majeſties Army, Generall Governour, and Lord Lieutenant of <hi>Ireland,</hi> Lord Preſident of the Councell eſtabliſhed in the North parts of <hi>England,</hi> and of the County and City of <hi>York,</hi> one of His Majeſties moſt honourable Privie Councell, and Knight of the Noble Order of the Garter.</p>
+            <p>
+               <hi>His Hiſtory, and Tragedy:</hi> Who was accuſed, and impeached of high Treaſon, arraigned, found guilty, condemned, and beheaded on Tower-hill, May 12. 1641.</p>
+            <figure>
+               <figDesc>portrait of Thomas Wentworth 1593-1641) first Earl of Strafford and Lord Deputy of Ireland</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:93206:2"/>
+            <pb n="3" facs="tcp:93206:2"/>
+            <head>THE DOVVNFALL OF <hi>GREATNESSE</hi> FOR THE LOSSE OF <hi>GOODNESSE.</hi>
+            </head>
+            <lg>
+               <l>IN this (as in a mirrour) you may ſee</l>
+               <l>
+                  <hi>Wentworth,</hi> want worth, his life and tragedie,</l>
+               <l>He was a Peer, once Pillar of this Land,</l>
+               <l>Who a whole Kingdome had at his command;</l>
+               <l>Indeed, What had he not? The confluence</l>
+               <l>Of all things make men happy, Emminence</l>
+               <l>Bove others, Learning, Knowledge, Eloquence,</l>
+               <l>The favour of his Prince, familiarity</l>
+               <l>With his Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res; he had volubility</l>
+               <l>Of his tongue, with the ſtrength of memory,</l>
+               <l>Honours, offices, wealth, and potency.</l>
+               <l>He wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a man of admirable parts,</l>
+               <l>Expert and skilfull both in armes and arts;</l>
+               <l>Souldier, and Scholer, able to compare</l>
+               <l>With <hi>Ajax,</hi> or <hi>Vlyſſes,</hi> for his rare</l>
+               <l>Perfections; a grand Counceller of State;</l>
+               <l>Counſell might make him ſee, not ſhun his Fate.</l>
+               <l>This great mans execution long expected,</l>
+               <l>Did come at laſt, and quickly was effected;</l>
+               <pb n="4" facs="tcp:93206:3"/>
+               <l>So mortall was his life, that daring death</l>
+               <l>Depriv'd him at one ſtroke of vitall breath.</l>
+               <l>Why then, haile death! Lord of the land of clay!</l>
+               <l>Emperour of Churchyards, King of <hi>Golgotha!</hi>
+               </l>
+               <l>Seeing neither Arms, nor Arts, nor <hi>Caeſars</hi> ſmile</l>
+               <l>(Whoſe glorious beames do bleſſe this <hi>Brittiſh</hi> Ile)</l>
+               <l>Could guard him from deaths fatall blow; fix this</l>
+               <l>Oh Truth, in every Statiſts ſoule, All bliſſe</l>
+               <l>Borrow'd from breath is tranſient: even as boyes</l>
+               <l>With Cards build Caſtles, ſo titles are but toyes,</l>
+               <l>Erected, and ſtrait ruin'd with a breath;</l>
+               <l>But vertue ſurvives Marble, Time, and Death.</l>
+               <l>Honours are bubbles, Phantaſmes that delude</l>
+               <l>Dull ſoules: by them ſtout <hi>Strafford</hi> was ſubdude.</l>
+               <l>His haughty minde aſpiring got a fall</l>
+               <l>So ponderous, that it caus'd his funerall.</l>
+               <l>Unfortunate he was from's Mothers wombe,</l>
+               <l>And ſo continued hath unto his Tombe.</l>
+               <l>Some are ſlain by ambition, ſome by luſt;</l>
+               <l>He like a ſtone was cut in his own duſt.</l>
+               <l>His Rule in <hi>Ireland</hi>' its well known to all,</l>
+               <l>Was potent, tyrannous, and tragicall.</l>
+               <l>His life was a ſad play, his Mothers Wombe</l>
+               <l>From which he ent'rd, was the Tyring-Roome;</l>
+               <l>Wherein with Natures gifts he was ſo dreſt,</l>
+               <l>That he had acted well, he had been bleſt</l>
+               <l>To all Eternity; happy had he bin,</l>
+               <l>Had he conſider'd but the ſtipend of ſin,</l>
+               <l>And call'd himſelfe t'account his unto Maſter.</l>
+               <l>H'had not then met with any ſuch diſaſter.</l>
+               <l>But wretched man himſelfe of's ſelfe bereaves,</l>
+               <l>And like a ſilk-worme his owne ſorrow weaves.</l>
+               <l>So inconſiderate and ſtupid, that he</l>
+               <l>Seldome prevents his future miſery,</l>
+               <l>Careleſſe and dreadleſſe, 't was his malignant Fate</l>
+               <l>Inſtead of love, t'incurre the peoples hate,</l>
+               <pb n="5" facs="tcp:93206:3"/>
+               <l>That haſten'd his death. May his example prove,</l>
+               <l>There is no happineſſe on earth like love.</l>
+               <l>May it warne great men, who are high in blood,</l>
+               <l>To be as'ith' State great, ſo in mind good;</l>
+               <l>And may it be a caveat unto all</l>
+               <l>That ſtand, to take heed leſt like him they fall.</l>
+               <l>Oh, what is glory? or the life of man?</l>
+               <l>Much like a vapour, far leſſe than a ſpan.</l>
+               <l>What's th' Earths pompe? a ſhip of vanitie,</l>
+               <l>In which man ſailes through a Sea of miſery;</l>
+               <l>And never is in happineſſe, or reſt,</l>
+               <l>Till he land at Heavens haven, that Port bleſt.</l>
+               <l>He that does well, and's conſtant, he ſhall finde</l>
+               <l>Peace in his conſcience, comfort in his minde.</l>
+               <l>He that does ill, Let him remember this,</l>
+               <l>There is a thing call'd direfull <hi>Nemeſis.</hi>
+               </l>
+               <l>Iudgement (though ſlow) is ſure; And honours flood</l>
+               <l>Ebbes into ayre, when man is great, not good.</l>
+               <l>View it in him, whoſe ſplendor was we ſee</l>
+               <l>A well writ Prologue to his Tragedy.</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <head>A POSTSCRIPT TO THE PRECEDENT POEM.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He faireſt Proſpect unto honour lyes from the hill of vertue, and the beſt way to hap<g ref="char:EOLhyphen"/>pineſſe, is in the high rode of holineſſe. Hee that lives well, cannot dye ill; And 'tis not what a man has, but what he is, that makes him ſhine an eminent ſtarre in the Sphere of the State.</p>
+            <pb n="6" facs="tcp:93206:4"/>
+            <p>
+               <hi>Stemmata nil faciunt,</hi> as the Poet accutely; <hi>&amp; no<g ref="char:EOLhyphen"/>bilitas ſola eſt at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> unica virtus,</hi> Tis only vertue which is the trueſt Nobilitie, and that which makes man r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally noble. Hence it is, that <hi>Nobilitas parta</hi> is farre better than <hi>Nobilitas parta,</hi> to be borne great, and to live ſor<g ref="char:EOLhyphen"/>did, is ignominious and wretched; but merit, and the nob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e actions of the mind farre tranſcend the generoſi<g ref="char:EOLhyphen"/>tie of high-borne progenitors. <hi>Hinc illae Lachrimae</hi> that from a pure fountaine ſhould ſpring a foule ſtream; from a good root a bad branch, 'tis much <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bee deplo<g ref="char:EOLhyphen"/>red. So true it is that the princely Prophet, <hi>Man be<g ref="char:EOLhyphen"/>ing in honour, hath no underſtanding, but is like the Beaſts that periſh.</hi> Tis verified in the ſubiect of this diſ<g ref="char:EOLhyphen"/>courſe. <hi>Honos</hi> to him was <hi>Onus,</hi> his preferment his per<g ref="char:EOLhyphen"/>di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, his pompe was his pain, and his riſing his ruine, The higher he was, the heavier was his fall: with <hi>Pha<g ref="char:EOLhyphen"/>eton</hi> hee ſoar'd too high, and with him aiming at the Suns Sphere, to be mounted in <hi>Charls</hi> wain; from the altitude and utmoſt pitch of Majeſty, he fell to the pro<g ref="char:EOLhyphen"/>fundity, extremity, and abiſſe of miſery. Had h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been ho<g ref="char:EOLhyphen"/>ly as he was honourable, righteous as rich, pious as po<g ref="char:EOLhyphen"/>litick and as prudent for the Sta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, as hee was peſtilent to the State, he had been the grace of his Countrey, the glory of his age, and a mirrour of ſucceeding generati<g ref="char:EOLhyphen"/>ons, to his eternall fame; had he been what he was not, he had never arriv'd to ſuch a ſad diſaſter as he did.</p>
+            <p>Hee was a man of admirable abilities; Eloquence, Learning, Courage and valour were his ſervants to command; all which hee might have imployed to the glory of God, the honour of his Majeſtie, the good and benefit of the Church and Common-wealth; but hee perverted thoſe good indowments, which nature and the God of nature was pleaſed liberally to conferre up<g ref="char:EOLhyphen"/>on him, and imploy'd them to his owne ends, for the effecting and accompliſhing of his hainous doings, and facinorous deſignes.</p>
+            <pb n="7" facs="tcp:93206:4"/>
+            <p>His capitall crimes were Ambition, Pride, Injuſtice, Cruelty, and Treachery, <hi>Cum multis aliis,</hi> which for brevity ſake I omit. He endeavour'd to ſubvert the Lawes, the ancient and fundamentall Lawes and Go<g ref="char:EOLhyphen"/>vernment of the Kings Realms of <hi>England</hi> and <hi>Ireland.</hi> And whereas he alledged at his tryall in <hi>Weſtminſter</hi> Hall, that he never introduced an arbitrary and tyran<g ref="char:EOLhyphen"/>nicall Government, although he hath not effected it, (God be thanked, being prevented) yet he intended it. He exerciſed tyrannous and exorbitant power above and againſt the Lawes, over the libertie, ſtates and lives of his Majeſties ſubjects. He was the firebrand and incendiary of the wars between the two Kingdomes of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>The better to preſerve him and his confederates, he labored (as much as in him lay) to diſſolve Parliaments, and to ſubvert the rights, liberties, and privileges of Parliaments, and the ancient courſe of Parliamentary proceedings. He who was under the Law did aſſume to himſelfe a power above Law, yea without and a<g ref="char:EOLhyphen"/>gainſt Law. He was a terrour to the City, and an eye<g ref="char:EOLhyphen"/>ſore to the Countrey; his look was grimme, his anger intolerable, his rage implacable. He was tyranny in the Abſtract; without any bowels of compaſſion. How many honeſt men did he cauſe to be committed? com<g ref="char:EOLhyphen"/>pelling the great Councell of the Kingdome of <hi>Ireland</hi> to condeſcend to his commands; trampling on the Peeres, oppreſſing his Mejeſties ſubjects, and inſulting over people of all ranks, quality, and condition what<g ref="char:EOLhyphen"/>ſoever. When he was firſt ſent into <hi>Ireland</hi> with com<g ref="char:EOLhyphen"/>miſſion and authority, it was not long after, but he purſued his intents, and produced them into acts. Such horrid offences and nefarious crimes did he perpetrate and commit, of ſo exorbitant and tranſcendent a na<g ref="char:EOLhyphen"/>ture, that they indang'rd a generall inſurrection a<g ref="char:EOLhyphen"/>gainſt Majeſtie it ſelfe. To contract what I might pro<g ref="char:EOLhyphen"/>tract,
+<pb n="8" facs="tcp:93206:5"/> He attempted at one blow the ruine of the three Kingdomes, and their poſteritie, to bring them into perpetuall captivity, which is treaſon, and in the higheſt degree. Theſe were his plots and projects, theſe were his crimes and offences. For which by the high and honorable Court of Parliament, he was convicted, and condemned to ſuffer death, in the place and on the day before mentioned.</p>
+            <p>
+               <hi>Iam illum premit nox,</hi> The Sun of his Summers day is now ſet, and the ſad night of dreadfull death is come upon him. Let not the headleſſe multitude (or rather that many headed monſter, <hi>bellua multorum capitum</hi>) cenſure and condemne this great man, as one utterly loſt. We ought to judge charitably of him, who died in the feare of his Maker, and faith of his Redeemer. He had ſweet Chriſtian expreſſions of his Repentance, of faith, his obedience and humble ſubjection to the will of God. Without doubt, God did open his eyes, both before, and at the houre of his death; And though his latter dayes were his bad dayes, (yet in the judge<g ref="char:EOLhyphen"/>ment of charity) his laſt day<g ref="char:punc">▪</g> way his beſt das.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
